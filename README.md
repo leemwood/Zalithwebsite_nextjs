@@ -134,5 +134,5 @@ Zalith Launcher 与 Microsoft、Mojang 或网易公司无任何从属或合作�
 
 ## 许可证
 
-本项目采用 MIT 许可证。
+本项目采用 GPL-3.0 许可证。
 
